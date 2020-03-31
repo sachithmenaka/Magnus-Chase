@@ -1,2 +1,6 @@
 # Magnus-Chase
 Magnus-Chase CTF Box
+For our CTF project, we are planning to create our levels based on the theme of "Magnus Chase". In here we are planning to create levels that will tell a simple adventurous story about a treasure crook named Roz who finds his way through jungles, deep sea and through small islands to get into the aimed mysterious island with the use of a map in the aim of finding the treasure. The 12 levels will take you through the Roz's adventures – how he survives severe animal attacks, whether conditions and getting lost in his paths.  
+In each level there will be an obstacle that the player must overcome to unlock and move forward. In each level when the player unlocks it, he will be armed with weapons and tools which are useful to get the treasure and to get rescue from animal attacks. 
+For example, we are planning to start the journey as the Roz finding the directions through the dark jungle to get out from it. Our entire levels will be web-based, which helps us greatly in incorporating our theme into the levels. 
+We hope to keep this theme throughout all our levels in a meaningful way, while also giving some trivia about Magnus Chase in the process of playing the levels.
